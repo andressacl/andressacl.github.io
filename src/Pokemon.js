@@ -38,8 +38,7 @@ const Pokemon = (props) => {
                       <span id = "num">{` Nº ${id}`}</span>
                   </div>
 
-                  <div className= "definition">
-                        <div><p></p></div>
+                  <div className= "species">
                         {`Species: ${species.name}`}
                   </div>
 
@@ -77,7 +76,8 @@ const Pokemon = (props) => {
                 
                 </div>
                 </div>
-
+              
+              <div className='quadro'>
               <div className='stats'>
               {stats.map((statsInfo, idx) => {
                               const { stat } = statsInfo;
@@ -90,6 +90,7 @@ const Pokemon = (props) => {
                               );
                               })}
               </div>
+            </div>
             </div>
             
             {/* <div className='evolution-container'>
