@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/andressacl/teste.git/static/css/main.7851ae0a.chunk.css",
+    "main.js": "/andressacl/teste.git/static/js/main.6032df82.chunk.js",
+    "main.js.map": "/andressacl/teste.git/static/js/main.6032df82.chunk.js.map",
+    "runtime-main.js": "/andressacl/teste.git/static/js/runtime-main.6aa1e4b5.js",
+    "runtime-main.js.map": "/andressacl/teste.git/static/js/runtime-main.6aa1e4b5.js.map",
+    "static/js/2.f272c6c4.chunk.js": "/andressacl/teste.git/static/js/2.f272c6c4.chunk.js",
+    "static/js/2.f272c6c4.chunk.js.map": "/andressacl/teste.git/static/js/2.f272c6c4.chunk.js.map",
+    "index.html": "/andressacl/teste.git/index.html",
+    "static/css/main.7851ae0a.chunk.css.map": "/andressacl/teste.git/static/css/main.7851ae0a.chunk.css.map",
+    "static/js/2.f272c6c4.chunk.js.LICENSE.txt": "/andressacl/teste.git/static/js/2.f272c6c4.chunk.js.LICENSE.txt",
+    "static/media/logo.41cda45e.svg": "/andressacl/teste.git/static/media/logo.41cda45e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6aa1e4b5.js",
+    "static/js/2.f272c6c4.chunk.js",
+    "static/css/main.7851ae0a.chunk.css",
+    "static/js/main.6032df82.chunk.js"
+  ]
+}
